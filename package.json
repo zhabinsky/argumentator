@@ -1,6 +1,6 @@
 {
   "name": "argumentator",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Package that simplifies handling of CLI arguments.",
   "main": "index.js",
   "keywords": [
@@ -10,9 +10,13 @@
     "parameters"
   ],
   "author": "Vladislav Zhabinsky <vladislavzhabinsky@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
     "console.table": "^0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhabinsky/argumentator"
   }
 }
