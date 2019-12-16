@@ -21,7 +21,7 @@ module.exports = function argumentator (expectedArgs, options = {}) {
   }
 
   expectedArgs.push ({
-    flags: `--manual, --man`,
+    flags: `--manual,--man`,
     description: 'Shows all available CLI arguments',
     action: () => {
       /**
