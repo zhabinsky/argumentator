@@ -1,6 +1,6 @@
 {
   "name": "argumentator",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Package that simplifies handling of CLI arguments.",
   "main": "index.js",
   "keywords": [
